@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hot-words-leafy-corner.vercel.app/sitemap.xml
+Sitemap: https://leafy-corner.vercel.app/sitemap.xml
