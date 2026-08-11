@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://leafy-corner.vercel.app/sitemap.xml
