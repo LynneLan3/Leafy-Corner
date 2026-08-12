@@ -53,11 +53,12 @@ export const game: GameConfig = {
 	accentColor: '#15803d',
 	portal: {
 		popularQuestions: [
+			{ label: 'What platforms is Leafy Corner on?', href: '/leafy-corner/platforms/' },
+			{ label: 'Is Leafy Corner on PS5?', href: '/leafy-corner/platforms/#is-leafy-corner-on-ps5' },
+			{ label: 'When was Leafy Corner released?', href: '/leafy-corner/release-date/' },
 			{ label: 'What kind of game is Leafy Corner?', href: '/leafy-corner/gameplay/' },
-			{ label: 'When did Leafy Corner release?', href: '/leafy-corner/release-date/' },
 			{ label: 'How much does it cost?', href: '/leafy-corner/price/' },
 			{ label: 'Is there a demo?', href: '/leafy-corner/demo/' },
-			{ label: 'Which platforms are supported?', href: '/leafy-corner/platforms/' },
 		],
 		showRecentlyUpdated: true,
 		maxRecent: 5,

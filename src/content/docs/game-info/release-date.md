@@ -1,29 +1,31 @@
 ---
-title: "Leafy Corner Release Date and Demo Date"
-description: Confirmed Leafy Corner full-game release date and free Steam demo release date.
+title: "Leafy Corner Release Date — When Did the Game Release?"
+description: Confirmed Leafy Corner full-game release date across listed platforms, plus the free Steam demo release date.
 category: game-info
 slug: leafy-corner/release-date
 status: confirmed
 featured: true
-quickAnswer: Leafy Corner released on July 30, 2026 across the officially listed storefronts. The free Steam demo listing records an April 17, 2026 release date.
+quickAnswer: Leafy Corner released on July 30, 2026 across the officially listed Steam, Nintendo Switch, PlayStation 5, and Xbox storefronts. The free Steam demo listing records an April 17, 2026 release date.
 related:
   - leafy-corner/demo
   - leafy-corner/platforms
 sidebar:
   order: 1
   badge: Confirmed
-lastUpdated: 2026-08-11
+lastUpdated: 2026-08-12
 ---
 
 ## When did Leafy Corner release?
 
-Leafy Corner released on **July 30, 2026** across the officially listed Steam, Nintendo Switch, PlayStation 5, and Xbox storefronts.
+Leafy Corner released on **July 30, 2026** on the officially listed Steam, Nintendo Switch, PlayStation 5, and Xbox storefronts. The reviewed sources do not establish different full-game release dates by platform.
+
+See all [confirmed Leafy Corner platforms](/leafy-corner/platforms/).
 
 ## When did the demo release?
 
 The free Steam demo listing records an **April 17, 2026** release date. The reviewed console product pages do not establish separate console demo listings.
 
-For the demo's confirmed scope and caveats, see [Leafy Corner demo](/leafy-corner/demo/). For storefront details, see [Leafy Corner platforms](/leafy-corner/platforms/).
+For the demo's confirmed scope and caveats, see [Leafy Corner demo](/leafy-corner/demo/).
 
 ## Sources
 
