@@ -32,6 +32,8 @@ export interface GameConfig {
 	platforms: readonly string[];
 	accentColor: string;
 	heroImage?: string;
+	heroAlt?: string;
+	heroPosition?: string;
 	logoImage?: string;
 	categories: readonly GameCategory[];
 	portal?: GamePortalConfig;
@@ -51,6 +53,9 @@ export const game: GameConfig = {
 	publisher: 'Fireline Games',
 	platforms: ['Steam / PC', 'macOS', 'Nintendo Switch', 'PlayStation 5', 'Xbox'],
 	accentColor: '#15803d',
+	heroImage: 'hero.jpg',
+	heroAlt: 'Official Steam artwork for Leafy Corner',
+	heroPosition: 'center',
 	portal: {
 		popularQuestions: [
 			{ label: 'What platforms is Leafy Corner on?', href: '/leafy-corner/platforms/' },
