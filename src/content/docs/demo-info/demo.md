@@ -5,19 +5,19 @@ category: demo-info
 slug: leafy-corner/demo
 status: confirmed
 featured: true
-quickAnswer: A free Leafy Corner demo is listed on Steam with an April 17, 2026 release date. The demo description explicitly excludes hardcore management, advanced plant care, and a storyline.
+quickAnswer: Yes — Leafy Corner still has a free playable demo on Steam. The demo originally released on April 17, 2026 and remains available to install and play after the full game's July 30, 2026 release.
 related:
   - leafy-corner/gameplay
   - leafy-corner/release-date
 sidebar:
   order: 1
   badge: Confirmed
-lastUpdated: 2026-08-11
+lastUpdated: 2026-08-12
 ---
 
 ## Is there a Leafy Corner demo?
 
-Yes. A free demo is listed on Steam, with an **April 17, 2026** release date.
+Yes. A free demo is still available to install and play on Steam through its separate demo listing, which originally released on **April 17, 2026**. The full game released on July 30, 2026, but the Steam demo listing remains live with Play / Install access. It is not the same listing as the full game.
 
 ## What does the demo confirm?
 
